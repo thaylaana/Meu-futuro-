@@ -1,32 +1,38 @@
-.cabeçalho{
-    background-color: blue;
-    color: azure;
+.cabeçalho {
+    background-color: #3b82f6;
+    color: white;
     padding: 20px;
     text-align: center;
-}
-
-.lista-principal{
+    width: 100%;
+    box-sizing: border-box;
+    }
+    
+    .lista-principal {
     list-style: none;
     padding: 0;
     margin-top: 10px;
     display: flex;
     justify-content: center;
-    width: 20px;
+    gap: 10px;
     font-size: 20px;
-}
-    .Jurandir{
-    font-size: 20px;
-    color: ivory;
-    margin: 30px;
-    text-align: center;
-    background-color: blue;
-
+    flex-wrap: wrap;
     }
-    .item{
-    background-color: darkslateblue;
-    color: antiquewhite;
-    padding:8px 12px;
+    
+    .item {
+    background-color: bisque;
+    color: #3b82f6;
+    padding: 8px 12px;
     border-radius: 8px;
     font-weight: bold;
-
+    }
+    
+    .jurandir {
+    font-size: 20px;
+    color: brown;
+    margin: 30px 0;
+    text-align: center;
+    background-color: cornflowerblue;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
     }
