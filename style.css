@@ -8,13 +8,27 @@
 .lista-principal{
     list-style: none;
     padding: 0;
+    margin-top: 10px;
     display: flex;
     justify-content: center;
     width: 20px;
     align-items: center;
-
-    }
+    font-size: 20px;
+}
     .Jurandir{
     font-size: 20px;
     color: ivory;
+    margin: 30px;
+    text-align: center;
+    background-color: blue;
+
+    }
+    .item{
+    background-color: darkslateblue;
+    color: antiquewhite;
+    padding:8px 12px;
+    border-radius: 8px;
+    font-weight: bold;
+
+
     }
