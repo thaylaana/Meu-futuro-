@@ -19,7 +19,7 @@
     }
     
     .item {
-    background-color: bisque;
+    background-color: grey;
     color: #3b82f6;
     padding: 8px 12px;
     border-radius: 8px;
@@ -31,7 +31,7 @@
     color: brown;
     margin: 30px 0;
     text-align: center;
-    background-color: cornflowerblue;
+    background-color: deepskyblue;
     width: 100%;
     padding: 20px;
     box-sizing: border-box;
